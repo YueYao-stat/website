@@ -30,9 +30,14 @@ profiles:
 
 ---
 
+## Master’s research assistants:
+
+- Yue Yao, [[Contextualized models](/projects/1_contextualized)]
+
 ## Undergraduate research assistants:
 
 - Dong Liu, [[Efficient Foundation Models](/projects/4_efficient_foundation)]
 - Amy Cai, [[Contextualized models](/projects/1_contextualized), [Maternal health](/projects/7_maternal)]
 - Luke Weiss, [[Contextualized models](/projects/1_contextualized), [Maternal health](/projects/7_maternal)]
 - Peter Lee, [[Contextualized models](/projects/1_contextualized)]
+
